@@ -1,4 +1,4 @@
-themedir        = $(datadir)/themes/Arc
+themedir        = $(datadir)/themes/aArc
 ithemedir       = $(DESTDIR)$(themedir)
 
 install-data-local:
